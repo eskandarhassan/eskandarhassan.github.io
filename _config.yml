@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Dr. Anis HUSSET'
+title: 'Feeling Responsive'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Chirurgie generale'
+slogan: 'A Flexible Theme for Jekyll'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
@@ -42,7 +42,7 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.jpg"
+logo: "logo.png"
 
 # Plugins
 plugins:

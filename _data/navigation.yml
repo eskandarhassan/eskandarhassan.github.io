@@ -5,6 +5,9 @@
 # - title: Getting Started
 #   url: "/getting-started/"
 #   side: left
+- title: "Contact"
+  url: "/contact/"
+  side: left
 
 # - title: "Templates"
 #   url: "/design/"
@@ -70,6 +73,4 @@
 #   url: "/search/"
 #   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+

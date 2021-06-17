@@ -49,7 +49,7 @@ permalink: "/changelog/"
 2015-02-26 // Version 1.0
 :   OK. Let's try it. Here is *Feeling Responsive* Version 1.0, with a shiny video.
 
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/watch?v=jo8I06ozBwo" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
 
 2015-02-25 // Version 0.99.1
